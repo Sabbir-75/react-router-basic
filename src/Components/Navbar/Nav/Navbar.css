@@ -1,0 +1,9 @@
+.activemenu a .active {
+   text-decoration: underline;
+}
+
+.myClass a.active{
+   background-color: blueviolet;
+   padding: 5px 10px;
+   border-radius: 5px;
+}
